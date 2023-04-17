@@ -55,11 +55,11 @@ const Footer = () => {
         <ul>
           <li>
             <Place className='mr-4' />
-            <span>Cairo, Egypt</span>
+            <span>Akurdi , Pune</span>
           </li>
           <li>
             <LocalPhone className='mr-4' />
-            <span>+201154251620</span>
+            <span>+91 9875642314</span>
           </li>
           <li>
             <MailOutline className='mr-4' />
